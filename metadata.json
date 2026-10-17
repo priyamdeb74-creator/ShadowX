@@ -1,0 +1,6 @@
+{
+  "name": "NOIRÉ — Modern Fine Dining",
+  "description": "Experience modern fine dining at NOIRÉ. Seasonal gastronomy, thoughtful craftsmanship, and an artful culinary journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
